@@ -1,6 +1,6 @@
 const Telegraf = require("telegraf");
 
-const bot = new Telegraf("1208272153:AAEl1bNxLZKkgG0i14SwGwRdTaI8DHLGtWA");
+const bot = new Telegraf("TELEGRAM_API_HERE");
 
 const helpMessage = `
 Say something to me
